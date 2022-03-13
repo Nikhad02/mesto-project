@@ -3,3 +3,25 @@
   margin: 40px 200px 0;
   display: flex;
 }
+
+@media screen and (max-width: 1024px ) {
+  .profile {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
+
+@media screen and (max-width: 780px ) {
+  .profile {
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+}
+
+@media screen and (max-width: 425px ) {
+  .profile {
+    display: block;
+    margin: 42px 19px 0;
+    max-width: 282px;
+  }
+}

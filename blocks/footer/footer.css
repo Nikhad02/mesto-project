@@ -5,3 +5,20 @@
   line-height: 22px;
   color: #545454;
 }
+@media screen and (max-width: 1024px ) {
+  .footer {
+    margin-left: 100px;
+  }
+}
+
+@media screen and (max-width: 780px ) {
+  .footer {
+    margin-left: 25px;
+  }
+}
+
+@media screen and (max-width: 425px ) {
+  .footer {
+    margin-left: 19px;
+  }
+}

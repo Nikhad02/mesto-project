@@ -2,3 +2,23 @@
   max-width: 880px;
   margin: 45px 200px 0;
 }
+
+@media screen and (max-width: 1024px ) {
+  .header {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+}
+@media screen and (max-width: 780px ) {
+  .header {
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+}
+
+@media screen and (max-width: 425px ) {
+  .header {
+    margin: 28px 0 0;
+    max-width: 425px;
+  }
+}

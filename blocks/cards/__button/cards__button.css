@@ -1,3 +1,7 @@
 .cards__button {
-  margin: 30px 20px 30px 0;
+  margin: 25px 20px 25px 0;
+}
+
+.cards__button:hover {
+  opacity: .5;
 }
