@@ -1,0 +1,6 @@
+.cards__caption {
+  background-color: #fff;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
