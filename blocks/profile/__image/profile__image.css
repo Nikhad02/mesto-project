@@ -3,3 +3,10 @@
   max-width: 120px;
   height: 100%;
 }
+
+@media screen and (max-width: 425px ) {
+  .profile__image {
+    margin-left: 82px;
+    margin-right: 82px;
+  }
+}

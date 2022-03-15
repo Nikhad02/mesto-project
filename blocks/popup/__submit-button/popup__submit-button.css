@@ -1,0 +1,8 @@
+.popup__submit-button {
+  margin: 61px 36px 37px;
+  max-width: 358px;
+}
+
+.popup__submit-button:hover {
+  opacity: .8;
+}
