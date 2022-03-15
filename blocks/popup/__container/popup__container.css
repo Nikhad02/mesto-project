@@ -5,7 +5,12 @@
   max-width: 430px;
   position: absolute;
   top: 195px;
-
 }
 
-
+@media screen and (max-width: 580px ) {
+  .popup__container {
+    max-width: 282px;
+    top: 132px;
+    left: 19px;
+  }
+}
