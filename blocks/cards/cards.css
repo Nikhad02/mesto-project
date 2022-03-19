@@ -7,7 +7,7 @@
   margin: 51px 200px 0;
 }
 
-@media screen and (max-width: 1024px ) {
+@media screen and (max-width: 1040px ) {
   .cards {
     margin-left: 100px;
     margin-right: 100px;
@@ -30,5 +30,6 @@
 @media screen and (max-width: 580px ) {
 .cards {
   margin: 36px 19px 0;
+  place-items: center;
 }
 }

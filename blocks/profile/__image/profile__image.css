@@ -4,7 +4,13 @@
   height: 100%;
 }
 
-@media screen and (max-width: 425px ) {
+@media screen and (max-width: 580px ) {
+  .profile__image {
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 320px ) {
   .profile__image {
     margin-left: 82px;
     margin-right: 82px;

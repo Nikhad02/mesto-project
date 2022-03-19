@@ -1,5 +1,13 @@
 .cards__button {
   margin: 25px 20px 25px 0;
+  background-image: url(../../../images/cards__button.svg);
+  background-color: #fff;
+  background-repeat: no-repeat;
+  object-fit: contain;
+  background-position: center;
+  padding: 11px;
+  border: 0;
+  cursor: pointer;
 }
 
 .cards__button:hover {
