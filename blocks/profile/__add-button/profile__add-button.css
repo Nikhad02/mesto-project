@@ -30,5 +30,6 @@
   .profile__add-button {
     max-width: 282px;
     padding: 17px 138px;
+    margin: 36px 0;
   }
 }
